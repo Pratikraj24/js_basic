@@ -39,4 +39,28 @@ let converted=String(user_name);
 console.log(typeof converted);    //string
 console.log(converted);    //123
 */
-let 
+
+
+//********************************OPERATION*************************** */
+
+/*
+console.log(2+2); add
+console.log(2-2); sub
+console.log(2*2); mul
+console.log(2/2); divisipn
+console.log(2**2); gives power;
+console.log(2%2);   gives remainder;
+no need to explain more
+*/
+/*
+let str1="hello";
+console.log(1+2+"2")    //32;  if first no is int it will perform interger operation first
+
+console.log("1"+2+2);       // 122 if first no is string it will perform string operation first
+                                upto next
+                                */
+
+
+
+
+
