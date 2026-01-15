@@ -5,7 +5,7 @@
 // console.log(converted);
 
 
-/* so initially score="33" was a string nut we changed  their datatype to
+/* so initially score="33" was a string but we changed  their datatype to
  number by using-> Number(score); and store in xyz
 */
 
